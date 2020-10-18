@@ -6,4 +6,8 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MVVMBestPractices.Common\MVVMBestPractices.Common.csproj" />
+  </ItemGroup>
+
 </Project>
