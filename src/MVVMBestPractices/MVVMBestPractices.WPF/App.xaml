@@ -4,6 +4,9 @@
              xmlns:local="clr-namespace:MVVMBestPractices.WPF"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+        <Style x:Key="TitleStyle" TargetType="TextBlock">
+            <Setter Property="Foreground" Value="Gray" />
+            <Setter Property="FontSize" Value="24" />
+        </Style>
     </Application.Resources>
 </Application>
