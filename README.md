@@ -1,3 +1,5 @@
+![abstract layers](https://takacsalbert.files.wordpress.com/2020/12/pexels-edward-jenner-4252521.jpg "credit: Photo by Edward Jenner from Pexels")
+
 # mvvmbestpractices
 Collection of MVVM best practices. The way I build apps with MVVMLight and other bits and pieces.
 
