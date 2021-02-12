@@ -19,7 +19,7 @@ I often see questions on forums and groups on how to start with MVVM and which l
 ## Plans ahead
 You know, a project is never finished. There is always something to add or polish the code here and there. Here is a todo list for this particular project:
 - Add DialogService: service to help you with popping up complex modal dialogs and showing simple notifications
-- Add more types of apps: Since we have the building blocks (in the Commond project), we can code the actual implementations for more platforms. I am going to add Xamarin Forms, UWP, Xamarin native apps in the future showing that the same technique works on different platforms. And it works without modifying the Common project or other apps.
+- Add more types of apps: Since we have the building blocks (in the Common project), we can code the actual implementations for more platforms. I am going to add Xamarin Forms, UWP, Xamarin native apps in the future showing that the same technique works on different platforms. And it works without modifying the Common project or other apps.
 - I am happy to add anything you would like to see. Please create a new issue for specific requests.
 
 ## References
